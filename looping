@@ -1,0 +1,7 @@
+list1 =  [12, -7, 5, 64, -14]
+newlist=[]
+for ele in list1:
+    if ele>0:
+        newlist.append(ele)
+print(newlist)
+        
